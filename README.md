@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 23 September 2025 at 23:17:10 (GMT+7)
-## Price Now: $1,022.97
+## Last updated: 24 September 2025 at 00:10:36 (GMT+7)
+## Price Now: $1,020.93
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $61.09 | $90.21 | $89.45 | $126.63 | $26.56 | $19.10 | $16.03 | $25.30 | $3.10 | -$1.45 | -$6.71 | $1,023.28 |
+| $58.84 | $91.93 | $90.68 | $106.44 | $25.66 | $17.90 | $17.20 | $18.37 | $3.80 | -$0.38 | -$13.53 | $1,024.86 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,012.56 | $1,012.19 | $1,007.68 | $1,000.09 | $1,008.27 | $1,000.42 | $1,011.35 | $1,015.31 | $1,009.24 | $1,017.65 | $990.37 | $988.41 |
+| $1,014.37 | $1,014.22 | $1,009.10 | $1,001.59 | $1,009.20 | $1,000.55 | $1,011.80 | $1,014.63 | $1,009.51 | $1,017.96 | $990.70 | $988.93 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
