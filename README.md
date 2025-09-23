@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 23 September 2025 at 10:26:48 (GMT+7)
-## Price Now: $979.54
+## Last updated: 23 September 2025 at 11:16:08 (GMT+7)
+## Price Now: $981.32
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $33.60 | $13.47 | $17.21 | -$116.65 | $43.94 | $40.96 | -$30.27 | -$14.95 | -$13.35 | -$12.51 | -$72.70 | $977.57 |
+| $35.66 | $25.20 | $18.21 | -$74.45 | $44.84 | $38.23 | -$29.68 | -$6.32 | -$12.80 | -$12.52 | -$58.02 | $976.41 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $987.62 | $986.40 | $998.05 | $999.39 | $1,005.86 | $1,010.79 | $1,012.98 | $1,029.97 | $1,009.56 | $1,015.51 | $987.96 | $983.29 |
+| $987.03 | $986.14 | $996.77 | $997.18 | $1,004.50 | $1,008.52 | $1,011.88 | $1,028.17 | $1,009.08 | $1,015.50 | $987.94 | $983.56 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
