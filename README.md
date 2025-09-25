@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 26 September 2025 at 00:11:58 (GMT+7)
-## Price Now: $972.70
+## Last updated: 26 September 2025 at 01:20:26 (GMT+7)
+## Price Now: $962.73
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $32.16 | $18.57 | $28.86 | -$147.98 | $29.95 | $27.96 | -$16.59 | -$19.68 | -$7.53 | -$6.40 | -$97.15 | $985.15 |
+| $31.69 | $14.54 | $22.42 | -$223.76 | $33.07 | $35.74 | -$22.87 | -$28.62 | -$10.12 | -$7.36 | -$76.71 | $966.26 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $987.93 | $987.76 | $994.14 | $995.88 | $998.33 | $1,002.20 | $1,003.19 | $1,008.42 | $1,006.62 | $1,012.15 | $996.67 | $1,006.39 |
+| $980.87 | $983.23 | $989.71 | $992.23 | $995.02 | $999.82 | $1,000.97 | $1,006.84 | $1,005.42 | $1,011.10 | $996.16 | $1,006.35 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
