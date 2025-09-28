@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 28 September 2025 at 13:18:33 (GMT+7)
-## Price Now: $972.21
+## Last updated: 28 September 2025 at 14:11:52 (GMT+7)
+## Price Now: $970.63
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $53.01 | $48.10 | $45.04 | -$0.79 | $14.71 | $16.54 | $3.34 | $3.23 | $1.54 | $1.94 | -$49.43 | $973.89 |
+| $50.63 | $44.45 | $45.85 | -$38.68 | $13.45 | $18.06 | $2.77 | -$2.33 | $1.32 | $1.81 | -$62.26 | $972.46 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $971.97 | $971.62 | $971.06 | $972.67 | $969.93 | $971.27 | $970.04 | $962.92 | $976.59 | $978.21 | $980.99 | $999.66 |
+| $971.69 | $971.37 | $971.00 | $972.64 | $969.96 | $971.62 | $970.06 | $963.53 | $976.46 | $977.89 | $980.88 | $999.59 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
