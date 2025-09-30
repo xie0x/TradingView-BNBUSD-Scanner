@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 1 October 2025 at 05:12:34 (GMT+7)
-## Price Now: $1,003.10
+## Last updated: 1 October 2025 at 06:12:19 (GMT+7)
+## Price Now: $1,003.92
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $42.49 | $37.20 | $38.26 | -$69.81 | $23.41 | $21.64 | -$10.30 | -$6.00 | -$2.81 | -$1.67 | -$66.04 | $1,006.73 |
+| $43.51 | $37.42 | $38.27 | -$68.71 | $22.73 | $21.74 | -$10.04 | -$4.75 | -$2.79 | -$1.89 | -$56.75 | $1,005.17 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,005.98 | $1,004.18 | $1,009.00 | $1,011.39 | $1,009.44 | $1,016.03 | $1,006.34 | $1,011.34 | $998.70 | $990.93 | $992.44 | $990.73 |
+| $1,005.69 | $1,003.76 | $1,008.56 | $1,010.41 | $1,009.12 | $1,015.76 | $1,006.26 | $1,011.78 | $998.81 | $991.43 | $992.56 | $990.76 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
