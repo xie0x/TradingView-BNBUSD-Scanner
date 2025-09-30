@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 30 September 2025 at 08:03:39 (GMT+7)
-## Price Now: $1,028.86
+## Last updated: 30 September 2025 at 09:54:31 (GMT+7)
+## Price Now: $1,023.90
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $66.56 | $80.08 | $86.27 | $96.87 | $44.06 | $12.19 | $25.19 | $17.28 | $9.96 | $9.47 | -$21.04 | $1,032.83 |
+| $60.76 | $71.71 | $78.44 | $60.82 | $42.69 | $15.42 | $23.02 | $18.01 | $9.12 | $9.37 | -$34.89 | $1,027.69 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,024.83 | $1,023.88 | $1,017.32 | $1,016.68 | $1,010.86 | $1,010.06 | $1,001.47 | $995.23 | $992.33 | $977.37 | $988.16 | $992.84 |
+| $1,024.29 | $1,025.44 | $1,017.73 | $1,017.26 | $1,011.55 | $1,011.35 | $1,002.26 | $996.29 | $992.91 | $978.13 | $988.49 | $992.69 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
