@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 2 October 2025 at 04:12:15 (GMT+7)
-## Price Now: $1,021.37
+## Last updated: 2 October 2025 at 05:12:18 (GMT+7)
+## Price Now: $1,021.67
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $54.52 | $45.56 | $45.35 | $32.28 | $18.56 | $18.76 | $7.65 | -$2.27 | $2.45 | $2.62 | -$55.44 | $1,021.02 |
+| $54.66 | $37.72 | $42.22 | $25.49 | $18.41 | $17.47 | $6.98 | $3.28 | $2.28 | $2.54 | -$75.51 | $1,021.01 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,020.73 | $1,020.83 | $1,018.94 | $1,018.75 | $1,017.33 | $1,014.65 | $1,013.91 | $1,016.83 | $1,005.98 | $1,002.44 | $997.72 | $993.36 |
+| $1,020.68 | $1,021.01 | $1,019.08 | $1,019.30 | $1,017.52 | $1,015.37 | $1,014.16 | $1,016.67 | $1,006.26 | $1,002.95 | $997.94 | $993.39 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
