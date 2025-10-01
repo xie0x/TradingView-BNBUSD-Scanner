@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 2 October 2025 at 01:19:09 (GMT+7)
-## Price Now: $1,020.68
+## Last updated: 2 October 2025 at 02:10:57 (GMT+7)
+## Price Now: $1,020.88
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $54.01 | $49.69 | $51.29 | $38.92 | $19.42 | $18.06 | $8.79 | -$7.06 | $2.81 | $2.73 | -$54.80 | $1,019.81 |
+| $54.22 | $46.41 | $48.81 | $25.08 | $19.35 | $18.32 | $7.70 | -$12.05 | $2.64 | $2.71 | -$54.09 | $1,020.06 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,020.41 | $1,023.02 | $1,018.21 | $1,017.42 | $1,016.51 | $1,013.02 | $1,013.01 | $1,016.59 | $1,005.05 | $1,001.04 | $997.01 | $993.29 |
+| $1,020.43 | $1,021.77 | $1,018.42 | $1,017.98 | $1,016.76 | $1,013.41 | $1,013.30 | $1,016.75 | $1,005.35 | $1,001.48 | $997.25 | $993.33 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
