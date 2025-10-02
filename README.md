@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 2 October 2025 at 10:25:20 (GMT+7)
-## Price Now: $1,033.40
+## Last updated: 2 October 2025 at 11:15:58 (GMT+7)
+## Price Now: $1,033.78
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $62.94 | $86.53 | $77.56 | $149.02 | $24.95 | $10.98 | $12.51 | $13.01 | $4.62 | $3.42 | -$22.92 | $1,037.34 |
+| $62.48 | $79.58 | $80.68 | $116.11 | $26.15 | $10.84 | $13.34 | $13.56 | $4.70 | $3.65 | -$21.14 | $1,037.20 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,028.14 | $1,026.17 | $1,024.18 | $1,024.95 | $1,021.59 | $1,019.76 | $1,017.35 | $1,016.80 | $1,008.68 | $1,005.99 | $999.59 | $993.76 |
+| $1,028.92 | $1,027.36 | $1,024.95 | $1,025.16 | $1,022.28 | $1,020.71 | $1,017.93 | $1,016.99 | $1,009.14 | $1,006.63 | $999.91 | $993.84 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
