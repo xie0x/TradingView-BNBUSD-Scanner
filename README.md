@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 2 October 2025 at 11:15:58 (GMT+7)
-## Price Now: $1,033.78
+## Last updated: 2 October 2025 at 12:13:03 (GMT+7)
+## Price Now: $1,030.30
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $62.48 | $79.58 | $80.68 | $116.11 | $26.15 | $10.84 | $13.34 | $13.56 | $4.70 | $3.65 | -$21.14 | $1,037.20 |
+| $58.77 | $65.69 | $75.03 | $85.84 | $25.76 | $13.39 | $12.94 | $10.39 | $4.38 | $3.76 | -$38.76 | $1,034.02 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,028.92 | $1,027.36 | $1,024.95 | $1,025.16 | $1,022.28 | $1,020.71 | $1,017.93 | $1,016.99 | $1,009.14 | $1,006.63 | $999.91 | $993.84 |
+| $1,028.78 | $1,028.13 | $1,025.23 | $1,024.90 | $1,022.64 | $1,021.33 | $1,018.32 | $1,017.07 | $1,009.51 | $1,007.23 | $1,000.19 | $993.87 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
