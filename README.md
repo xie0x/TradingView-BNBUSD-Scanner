@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 8 October 2025 at 18:11:27 (GMT+7)
-## Price Now: $1,311.71
+## Last updated: 8 October 2025 at 19:28:50 (GMT+7)
+## Price Now: $1,310.11
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $58.34 | $69.82 | $73.27 | $54.13 | $34.42 | $15.78 | $26.17 | -$0.59 | $12.27 | $13.32 | -$33.20 | $1,321.64 |
+| $57.39 | $68.25 | $71.46 | $53.26 | $33.45 | $15.99 | $24.76 | $19.77 | $11.80 | $13.05 | -$35.53 | $1,317.14 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,307.96 | $1,302.43 | $1,300.03 | $1,301.87 | $1,290.19 | $1,296.60 | $1,269.84 | $1,268.33 | $1,226.10 | $1,216.65 | $1,164.48 | $1,140.44 |
+| $1,308.71 | $1,304.65 | $1,301.20 | $1,303.15 | $1,291.62 | $1,298.92 | $1,271.51 | $1,270.25 | $1,227.81 | $1,218.22 | $1,165.95 | $1,141.87 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
