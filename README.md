@@ -1,7 +1,7 @@
 # TradingView BNBUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 18 October 2025 at 11:15:28 (GMT+7)
-## Price Now: $1,085.92
+## Last updated: 18 October 2025 at 12:12:37 (GMT+7)
+## Price Now: $1,085.08
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 BNBUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $47.60 | $82.87 | $82.97 | $101.34 | $26.60 | $24.18 | -$12.15 | $13.39 | -$8.29 | -$13.63 | -$21.07 | $1,089.88 |
+| $47.41 | $77.45 | $81.41 | $82.19 | $25.24 | $24.39 | -$8.84 | $18.02 | -$7.60 | -$12.46 | -$31.21 | $1,088.31 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ BNBUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $1,082.32 | $1,081.04 | $1,085.30 | $1,072.50 | $1,094.10 | $1,088.86 | $1,113.17 | $1,121.34 | $1,147.37 | $1,159.49 | $1,173.14 | $1,191.50 |
+| $1,082.42 | $1,082.57 | $1,085.04 | $1,074.66 | $1,093.35 | $1,086.76 | $1,111.96 | $1,119.30 | $1,146.08 | $1,157.40 | $1,172.24 | $1,190.64 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
